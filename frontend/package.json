@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://dias207.github.io/Kinogo/",
   "eslintConfig": {
     "extends": [
       "react-app",
